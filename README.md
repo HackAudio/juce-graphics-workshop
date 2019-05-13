@@ -1,5 +1,9 @@
 # JUCE Graphics Workshop
 
+A video of this presentation can be found at:
+
+https://youtu.be/wPFClE_dgSQ
+
 ## Introduction
 
 This workshop was created for Belmont University in Spring 2019 as an
